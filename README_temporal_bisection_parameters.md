@@ -16,8 +16,6 @@ Python 3.8+ and:
 pip install pandas numpy scipy matplotlib
 ```
 
-For exact reproducibility, record your versions (`pip freeze | grep -E "pandas|numpy|scipy|matplotlib"`) in a `requirements.txt`.
-
 ## Input data
 
 A CSV (default `Temporal_Bisection.csv`) with one row per participant and these columns. Proportions are between 0 and 1.
@@ -76,7 +74,6 @@ using `scipy.optimize.curve_fit` with method `dogbox`, bounds `a` in [0, 0.8] an
 ## Limitations
 
 - Seven data points are used to fit two parameters, and no goodness-of-fit measure is saved.
-- If a fit lands on a bound (slope at 0 or 0.8), the derived parameters are unreliable. Check those plots.
 - Durations and column names are hard-coded.
 
 ## Citation
