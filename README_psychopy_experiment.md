@@ -7,11 +7,16 @@ Pure Procrastination Scale (PPS): a 12-item self-report questionnaire (1-5 Liker
 Monetary Choice Questionnaire (MCQ-27): 27 hypothetical choices between a smaller immediate reward and a larger delayed reward, based on Kirby et al. (1999).
 
 Temporal Bisection (TB) task: participants learn a short (500 ms) and a long (2000 ms) tone, are trained to classify them, and then classify intermediate durations. The task is based on the protocol by Valério De Arruda et al. (2024).
+
 Instrument references
-PPS (original): Steel, P. (2010). Arousal, avoidant and decisional procrastinators: Do they exist? Personality and Individual Differences, 48(8), 926-934.
-PPS (Brazilian version): Rocha, R. Z., Almeida, C. R. S., & Dias, A. C. G. (2021). Pure Procrastination Scale e Irrational Procrastination Scale: validation of a Brazilian version. Psico-USF, 26(3), 507-518. https://doi.org/10.1590/1413-82712021260309
-MCQ: Kirby, K. N., Petry, N. M., & Bickel, W. K. (1999). Heroin addicts have higher discount rates for delayed rewards than non-drug-using controls. Journal of Experimental Psychology: General, 128(1), 78-87.
-Temporal bisection task: Valério De Arruda, M., Reyes, M. B., Das Neves, S. F., Herrmann, F., Verzili, B., & Galduróz, R. F. (2024). Temporal bisection task as a predictor of cognitive deficits. European Journal of Neuroscience, 60(9), 6330-6341. https://doi.org/10.1111/ejn.16554
+
+- PPS (original): Steel, P. (2010). Arousal, avoidant and decisional procrastinators: Do they exist? Personality and Individual Differences, 48(8), 926-934.
+
+- PPS (Brazilian version): Rocha, R. Z., Almeida, C. R. S., & Dias, A. C. G. (2021). Pure Procrastination Scale e Irrational Procrastination Scale: validation of a Brazilian version. Psico-USF, 26(3), 507-518. https://doi.org/10.1590/1413-82712021260309
+  
+- MCQ: Kirby, K. N., Petry, N. M., & Bickel, W. K. (1999). Heroin addicts have higher discount rates for delayed rewards than non-drug-using controls. Journal of Experimental Psychology: General, 128(1), 78-87.
+  
+- Temporal bisection task: Valério De Arruda, M., Reyes, M. B., Das Neves, S. F., Herrmann, F., Verzili, B., & Galduróz, R. F. (2024). Temporal bisection task as a predictor of cognitive deficits. European Journal of Neuroscience, 60(9), 6330-6341. https://doi.org/10.1111/ejn.16554
 
 All on-screen text is in **Brazilian Portuguese** (see [Stimulus language](#stimulus-language) for English reference translations).
 
