@@ -16,9 +16,9 @@ All on-screen text is in **Brazilian Portuguese** (see [Stimulus language](#stim
 
 ## Table of contents
 
-1. [Repository contents](#repository-contents)
+1. [Contents of the ZIP file](#contents-of-the-zip-file)
 2. [Requirements](#requirements)
-3. [How to run](#how-to-run)
+3. [How to run in PsychoPy](#how-to-run-in-psychopy)
 4. [Experiment flow](#experiment-flow)
 5. [Output data](#output-data)
 6. [Converting the CSV output to XLSX (recommended)](#converting-the-csv-output-to-xlsx-recommended)
@@ -29,10 +29,12 @@ All on-screen text is in **Brazilian Portuguese** (see [Stimulus language](#stim
 
 ---
 
-## Repository contents
+## Contents of the ZIP file
+
+This repository provides the whole experiment as a single archive, **`procrastination_timeperception.zip`**. Download it and **extract it completely** before running anything (see [How to run in PsychoPy](#how-to-run-in-psychopy)). Inside the ZIP you will find:
 
 ```
-procrastination_timeperception/
+procrastination_timeperception.zip
 ├── experimento_completo_grace.psyexp                  # PsychoPy Builder file (editable experiment)
 ├── experimento_completo_grace_lastrun.py              # Auto-generated Python script (runnable)
 ├── perguntas copy.csv                                 # PPS items (column: pergunta)
@@ -46,7 +48,7 @@ procrastination_timeperception/
 └── data/                                              # Output folder (one set of files per participant)
 ```
 
-> **Important:** the script uses relative paths and changes its working directory to its own folder. All CSV, image and audio files listed above must sit in the **same folder** as the `.psyexp` / `.py` file, with exactly these names.
+> **Important:** the script uses relative paths and changes its working directory to its own folder. After extracting the ZIP, all CSV, image and audio files listed above must sit in the **same folder** as the `.psyexp` / `.py` file, with exactly these names. Do **not** run the experiment from inside the ZIP file (e.g., by double-clicking the script in the compressed-folder preview), because the stimulus files will not be found. Keep the extracted folder structure intact.
 
 ### Input files
 
@@ -71,18 +73,18 @@ procrastination_timeperception/
 
 ---
 
-## How to run
+## How to run in PsychoPy
 
 ### Option A: PsychoPy Builder / Runner (recommended)
 
 1. Install PsychoPy 2026.1.3.
-2. Download or clone this repository, keeping all files together.
-3. Open `experimento_completo_grace.psyexp` in PsychoPy Builder.
+2. Download `procrastination_timeperception.zip` and **extract (unzip) all of its contents** into a folder of your choice, keeping all files together.
+3. Open `experimento_completo_grace.psyexp` (from the extracted folder) in PsychoPy Builder.
 4. Click **Run** (green play button). To test without full-screen and with a "pilot" participant ID, click **Pilot** instead.
 
 ### Option B: Python script
 
-From a terminal, inside the repository folder:
+From a terminal, inside the folder where you extracted the ZIP:
 
 ```bash
 python experimento_completo_grace_lastrun.py
