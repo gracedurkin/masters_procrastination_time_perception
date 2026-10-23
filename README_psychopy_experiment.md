@@ -3,7 +3,9 @@
 A PsychoPy experiment that combines three tasks in a single session:
 
 Pure Procrastination Scale (PPS): a 12-item self-report questionnaire (1-5 Likert scale). The original scale is described in Steel (2010), and the Portuguese items used here follow the Brazilian version by Rocha et al. (2021).
+
 Monetary Choice Questionnaire (MCQ-27): 27 hypothetical choices between a smaller immediate reward and a larger delayed reward, based on Kirby et al. (1999).
+
 Temporal Bisection (TB) task: participants learn a short (500 ms) and a long (2000 ms) tone, are trained to classify them, and then classify intermediate durations. The task is based on the protocol by Valério De Arruda et al. (2024).
 Instrument references
 PPS (original): Steel, P. (2010). Arousal, avoidant and decisional procrastinators: Do they exist? Personality and Individual Differences, 48(8), 926-934.
