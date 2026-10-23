@@ -22,7 +22,7 @@ All on-screen text is in **Brazilian Portuguese** (see [Stimulus language](#stim
 
 - **Experiment name (internal):** `procrastination_timeperception`
 - **Built with:** PsychoPy Builder, version **2026.1.3**
-- **Estimated duration:** about 20-30 minutes (estimate; depends on participant response speed)
+- **Estimated duration:** about 20 minutes (estimate; depends on participant response speed)
 
 ---
 
