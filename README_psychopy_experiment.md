@@ -212,7 +212,4 @@ Grace Durkin, 2026. https://github.com/gracedurkin/masters_procrastination_time_
 
 > Peirce J, Gray JR, Simpson S, MacAskill M, Hochenberger R, Sogo H, Kastman E, Lindelov JK. (2019). PsychoPy2: Experiments in behavior made easy. *Behavior Research Methods*, 51, 195-203. https://doi.org/10.3758/s13428-018-01193-y
 
-Please also cite the original sources of the instruments you use (the Pure Procrastination Scale and the Kirby Monetary Choice Questionnaire, as well as the Portuguese adaptations, if applicable).
-
-- **Author / contact:** _add your name and e-mail here_
-- **License:** _add a license (e.g., MIT, CC-BY 4.0) and a `LICENSE` file to the repository_
+Please also cite the original sources of the instruments you use (the Pure Procrastination Scale and the Kirby Monetary Choice Questionnaire, as well as the Portuguese adaptations, if applicable)
