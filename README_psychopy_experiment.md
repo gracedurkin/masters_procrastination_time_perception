@@ -94,20 +94,6 @@ procrastination_timeperception.zip
 3. Open `experimento_completo_grace.psyexp` (from the extracted folder) in PsychoPy Builder.
 4. Click **Run** (green play button). To test without full-screen and with a "pilot" participant ID, click **Pilot** instead.
 
-### Option B: Python script
-
-From a terminal, inside the folder where you extracted the ZIP:
-
-```bash
-python experimento_completo_grace_lastrun.py
-```
-
-Use the Python interpreter that comes with your PsychoPy installation. To run in pilot mode:
-
-```bash
-python experimento_completo_grace_lastrun.py --pilot
-```
-
 ### Startup dialog
 
 A dialog asks for:
