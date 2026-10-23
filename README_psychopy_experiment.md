@@ -1,4 +1,4 @@
-# Procrastination & Time Perception Experiment (PsychoPy)
+# Pure Procrastination Scale, 27-item Monetary Choice Questionnaire and Temporal Bisection Task (PsychoPy)
 
 A PsychoPy experiment that combines three tasks in a single session:
 
